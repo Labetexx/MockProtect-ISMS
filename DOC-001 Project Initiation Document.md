@@ -1,4 +1,4 @@
-# 📄 DOC-001: Project Initiation Document.md
+# 📄 DOC-001: Project Initiation Document
 **ISMS Implementation based on ISO/IEC 27001:2022**
 
 ---
