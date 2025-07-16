@@ -1,4 +1,4 @@
-# REC-022 Management Review and Input Document
+# REC-022 Management Review Input Document
 
 - **DOCUMENT CLASSIFICATION:** Internal  
 - **VERSION:** 1  
