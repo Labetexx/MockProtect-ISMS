@@ -1,5 +1,4 @@
 # REC-013 Risk Assessment Register
-# Risk Assessment Register
 
 ## Completed Risk Assessments
 
