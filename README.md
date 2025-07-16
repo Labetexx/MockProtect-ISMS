@@ -17,8 +17,15 @@ It is intended to help learners, practitioners, and auditors understand how a re
 ## ⚠️ Important Notes
 
 1. This repository is built around a **hypothetical scenario**; some aspects may contain assumptions or simplifications for illustrative purposes.
-2. All files are provided in **Markdown format**. If you require original **Word** or **Excel** documents, feel free to contact me via [LinkedIn](https://www.linkedin.com/).
-3. The **Statement of Applicability (SoA)** is not included in this repository due to **ISO copyright restrictions**.
+2. All files are provided in **Markdown format**. If you require original **Word** or **Excel** documents, feel free to contact me via [LinkedIn](www.linkedin.com/in/shahaan-umer-a7a051143).
+3. The complete **Statement of Applicability (SoA)** is not included in this repository due to **ISO copyright restrictions**.
+4. You can use this actual order of files as a reference:
+   - Initiation and Planning
+   - Clause 4
+   - Gap Assessment
+   - Clause 5
+   - Clause 6
+   - 
 
 ---
 
