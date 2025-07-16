@@ -25,7 +25,12 @@ It is intended to help learners, practitioners, and auditors understand how a re
    - Gap Assessment
    - Clause 5
    - Clause 6
-   - 
+   - Clause 7
+   - ISMS Manual
+   - Policies
+   - Clause 8
+   - Clause 9.1 / 9.2 / 9.3
+   - Clause 10
 
 ---
 
