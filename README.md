@@ -1,6 +1,6 @@
 # MockProtect-ISMS
 
-Welcome to the **MockProtect-ISMS** repository — a comprehensive implementation of an **Information Security Management System (ISMS)** based on the **ISO/IEC 27001:2022** standard. This project is built around a fictional organization, **MockProtect GmbH**, to demonstrate practical ISMS documentation, planning, and implementation workflows.
+Welcome to the **MockProtect-ISMS** repository : a comprehensive implementation of an **Information Security Management System (ISMS)** based on the **ISO/IEC 27001:2022** standard. This project is built around a fictional organization, **MockProtect GmbH**, to demonstrate practical ISMS documentation, planning, and implementation workflows.
 
 The project covers essential components such as:
 - Policies
