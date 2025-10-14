@@ -42,8 +42,6 @@ It is intended to help learners, practitioners, and auditors understand how a re
   - GDPR – General Data Protection Regulation (EU)  
   - NIS2 Directive – EU Network and Information Systems Directive  
 - **Templates and Structure:** Custom-developed for educational and illustrative purposes. Inspired by best practices from leading ISMS implementations.
-- Youtube : [Youtube](https://www.youtube.com/@PrabhNair1)
-          : [Youtube](https://www.youtube.com/@consultantslikeusISO27001)
 
 ---
 
