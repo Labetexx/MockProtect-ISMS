@@ -198,7 +198,7 @@ This document is reviewed annually or when significant changes occur.
 
 ---
 
-## 5. Purpose and Scope of ISMS
+## 5. Purpose of ISMS
 
 ### 5.1 Purpose
 
@@ -207,23 +207,9 @@ This document is reviewed annually or when significant changes occur.
 - Monitor ISMS performance
 - Continually improve information security management
 
-### 5.2 This Purpose Applies to the Scope of the ISMS as Defined Below
-
-**In-Scope**:
-- Frankfurt Headquarters operations
-- Departments handling sensitive information
-- IT infrastructure, company website, cloud environments
-- Information assets such as business data, customer information, source code
-
-**Out-of-Scope**:
-- Subsidiaries or foreign entities not involved in information processing
-- Non-IT administration locations
-- Non-critical employee personal devices
-- Activities unrelated to information security
-
 ---
 
-### 5.3 Potential Impact of an Information Security Incident
+### 5.2 Potential Impact of an Information Security Incident
 
 - Loss of client trust
 - Regulatory penalties
@@ -238,7 +224,7 @@ This document is reviewed annually or when significant changes occur.
 
 ---
 
-### 5.4 Information Security Objectives
+### 5.3 Information Security Objectives
 
 1. Ensure Confidentiality, Integrity, and Availability (CIA)
 2. Protect sensitive app data
@@ -255,9 +241,9 @@ This document is reviewed annually or when significant changes occur.
 
 ---
 
-### 5.5 Scope of ISMS
+### 5.4 Scope of ISMS
 
-#### 5.5.1 Organizational
+#### 5.4.1 Organizational
 
 - Headquarters in Frankfurt
 - All service-delivery departments
@@ -271,7 +257,7 @@ This document is reviewed annually or when significant changes occur.
 - Human resources involved in security
 - Security controls and procedures
 
-#### 5.5.2 Products and Services
+#### 5.4.2 Products and Services
 
 **Products Under ISMS Scope**:
 1. MockProtect Mobile App
@@ -280,7 +266,7 @@ This document is reviewed annually or when significant changes occur.
 4. SOAR Orchestration Engine
 5. Analytics & Reporting Dashboard
 
-#### 5.5.3 Exclusions
+#### 5.4.3 Exclusions
 
 - Subsidiaries not involved in information processing
 - Non-IT physical locations
