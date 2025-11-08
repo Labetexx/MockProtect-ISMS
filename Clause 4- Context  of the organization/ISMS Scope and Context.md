@@ -50,15 +50,14 @@
 4. [Interested Parties and Their Requirements](#4-interested-parties-and-their-requirements)
     - [4.1 Interested Parties](#41-interested-parties)
     - [4.2 Applicable Legal and Regulatory Requirements](#42-applicable-legal-and-regulatory-requirements)
-5. [Purpose and Scope of ISMS](#5-purpose-and-scope-of-isms)
+5. [Purpose and Scope of ISMS](#5-purpose-of-ISMS)
     - [5.1 Purpose](#51-purpose)
-    - [5.2 Scope Definition](#52-this-purpose-applies-to-the-scope-of-the-isms-as-defined-below)
-    - [5.3 Potential Impact of an Information Security Incident](#53-potential-impact-of-an-information-security-incident)
-    - [5.4 Information Security Objectives](#54-information-security-objectives)
-    - [5.5 Scope of ISMS](#55-scope-of-isms)
-        - [5.5.1 Organizational](#551-organizational)
-        - [5.5.2 Products and Services](#552-products-and-services)
-        - [5.5.3 Exclusions](#553-exclusions)
+    - [5.2 Potential Impact of an Information Security Incident](#52-potential-impact-of-an-information-security-incident)
+    - [5.3 Information Security Objectives](#53-information-security-objectives)
+    - [5.4 Scope of ISMS](#54-scope-of-isms)
+        - [5.4.1 Organizational](#541-organizational)
+        - [5.4.2 Products and Services](#542-products-and-services)
+        - [5.4.3 Exclusions](#543-exclusions)
 
 ---
 
